@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/github.com/ghqls44450/react_app/static/js/main.05402275.js",
-    "index.html": "/github.com/ghqls44450/react_app/index.html",
-    "main.05402275.js.map": "/github.com/ghqls44450/react_app/static/js/main.05402275.js.map"
+    "main.js": "/GitHub/react_app/static/js/main.a21c700b.js",
+    "index.html": "/GitHub/react_app/index.html",
+    "main.a21c700b.js.map": "/GitHub/react_app/static/js/main.a21c700b.js.map"
   },
   "entrypoints": [
-    "static/js/main.05402275.js"
+    "static/js/main.a21c700b.js"
   ]
 }
